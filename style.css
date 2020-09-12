@@ -1,14 +1,29 @@
 body {
+    font-family: 'roboto' , sans-serif;
+    font-size: 18px;
+    background-color:black;
 }
 
 main#container {
+    background-image: url(d08c2b35930297bbffd0626514670460.jpg);
+    background-size: cover;
 }
 
 h1.titulo {
+    color: goldenrod;
+    font-size: 2em;
+    font-weight: 900;
+    text-shadow: 4px 4px 2px black;  
 }
 
 p.frase {
+   font-size: 1.25em;
+   color: whitesmoke;
+   text-shadow: 2px 2px 1px black;
+
 }
 
 p.autor {
+    color: whitesmoke;
+    text-shadow: 2px 2px 1px black;
 }
